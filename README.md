@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedjuggle
+<br>
+(While Loop – Juggling, 10pt) Write a function juggle(n) that calculates a sequence of numbers as follows: it starts with n. If n is even, it replaces n with the floor of n**0.5; if, on the other hand, n is odd, it replaces n with the floor of n**1.5. (Recall that the floor rounds down a number, it’s available as a function in the math library, or you can use int()). And it doesn’t do it just once, it keeps doing it until it hits n == 1, printing all the values of n it gets along the way. Here are two sample runs:
